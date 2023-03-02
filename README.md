@@ -3,7 +3,7 @@ LPC213x 7segment driver library - mux 4 digit
 
 features:
 - Configurable pins (seglib.h)
-- Configurable seven segment type (seglib.h)
+- Configurable seven segment type [CA - CC] (seglib.h)
 
 ```c
 // Config connected pin direction and level
