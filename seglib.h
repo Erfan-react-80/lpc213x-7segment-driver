@@ -26,7 +26,7 @@
 #define DF 5
 #define DG 6
 
-/* Quickly group pin define
+/* Quickly group pin define */
 #define ALLDX (1 << DA) | (1 << DB) | (1 << DC) | (1 << DD) | (1 << DE) | (1 << DF) | (1 << DG) | (1 << CC1)
 #define ALLCCX (1 << CC1) | (1 << CC2) | (1 << CC3) | (1 << CC4)
 
