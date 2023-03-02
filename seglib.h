@@ -1,4 +1,10 @@
-// Necessary files on main.h
+/*
+ * seglib.h
+ *
+ *  Created on: 01/01/2023
+ *  Author: Erfan Saraiy (Erfan-react-80)
+ */
+
 #include "main.h"
 
 /* 7Segment Type (CC or CA) */
