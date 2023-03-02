@@ -5,7 +5,8 @@
  *  Author: Erfan Saraiy (Erfan-react-80)
  */
 
-#include "main.h"
+#include <LPC213x.h>
+#include "delay.h"
 
 /* 7Segment Type (CC or CA) */
 //#define SEGCC
